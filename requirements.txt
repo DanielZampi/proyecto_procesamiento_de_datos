@@ -5,3 +5,4 @@ sentencepiece
 matplotlib
 seaborn
 numpy
+rouge-score
