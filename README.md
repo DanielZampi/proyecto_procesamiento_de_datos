@@ -4,11 +4,11 @@
 > Arquitectura Transformer encoder-decoder con *future n-gram prediction*
 
 ---
-##Integrantes
+## Integrantes
 
-Jairo Andrés Pérez Hurtatis
-Diego Mauricio Ortiz
-Daniel Felipe Zamora Pineda
+* Jairo Andrés Pérez Hurtatis
+* Diego Mauricio Ortiz
+* Daniel Felipe Zamora Pineda
 
 ---
 
