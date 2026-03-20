@@ -3,6 +3,9 @@
 > Proyecto Final — Procesamiento de Datos Secuenciales  
 > Arquitectura Transformer encoder-decoder con *future n-gram prediction*
 
+---
+##Integrantes
+
 Jairo Andrés Pérez Hurtatis
 Diego Mauricio Ortiz
 Daniel Felipe Zamora Pineda
