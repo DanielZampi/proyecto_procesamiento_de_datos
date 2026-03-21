@@ -1,8 +1,0 @@
-streamlit
-transformers
-torch
-sentencepiece
-matplotlib
-seaborn
-numpy
-rouge-score
