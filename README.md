@@ -1,4 +1,4 @@
-# 🔮 ProphetNet — Generación Automática de Titulares de Noticias
+# ProphetNet — Generación Automática de Titulares de Noticias
 
 > Proyecto Final — Procesamiento de Datos Secuenciales  
 > Arquitectura Transformer encoder-decoder con *future n-gram prediction*
